@@ -1,0 +1,16 @@
+{
+	"mod_reference": "NogsLights",
+	"name": "NogsLights",
+	"description": "Light and Post Process Controll",
+	"version": "0.1.0",
+	"sml_version": "2.0.0",
+	"authors": [
+		"Nog"
+	],
+	"objects": [
+		{
+			"type": "pak",
+			"path": "NogsLights.pak"
+		}
+	]
+}
